@@ -1,6 +1,8 @@
 **Edgar Salardani Senhorello**  - 6º período
 
 - Título, autores e afiliações
+
+Título: Os benefícios da utilização de um aplicativo Android por mulheres durante gestação, parto, pós-parto e amamentação como ferramenta de informações e troca de experiências.
 - Resumo (abstract)
 - Introdução
 - Resultados e Discussões

@@ -26,7 +26,7 @@ A ideia de criar esse aplicativo para comunicação, entretenimento e conteúdo 
 
 O período de gestação na vida da mulher é cercado de mudanças e emoções. Segundo Silva e Silva (2009), gerar um filho tem destaque no ciclo vital da mulher que passa por intensas mudanças no corpo e em seu psicológico. A valorização da mulher como ser humano e cidadã é algo destacável (FREITAS et al., 2009). 
 
-Embora, existam diferentes formas de adquirir informações acerca da gravidez, segundo (Nascimento, 2009) transformações durante a gestação e diferentes vivências no parto gera preocupação em algumas mulheres. Essas reações estão ligadas ao medo das "dores" no próprio trabalho de parto, a vida dela e do seu bebê e o trauma de uma experiência mau sucedida (MELO; LIMA, 2000). Melo e Lima (2000) falam que a gravidez é  vista como um processo profundo de alterações fisicas, psíquicas e sociais. 
+Embora, existam diferentes formas de adquirir informações acerca da gravidez, segundo (Nascimento, 2009) transformações durante a gestação e diferentes vivências no parto gera preocupação em algumas mulheres. Essas reações estão ligadas ao medo das "dores" no próprio trabalho de parto, a vida dela e do seu bebê e o trauma de uma experiência mau sucedida (MELO e LIMA, 2000). Melo e Lima (2000) falam que a gravidez é  vista como um processo profundo de alterações fisicas, psíquicas e sociais. 
 
 O uso da tecnologia pelas mulheres gestantes gera acolhimento, segurança e preparação, além da contribuição do emponderamento durante a gravidez. O ato de perceber suas principais necessidades faz com que elas se adaptem e se tornem mais confiantes (NASCIMENTO, 2009). Além do resgate do seu emponderamento para assumir uma postura ativa no parto (NASCIMENTO, 2009, p. 18).
 
@@ -35,6 +35,15 @@ Assim, o desenvolvimento de um aplicativo que visa disponibilizar conteúdos e f
 
 
 ### Metodologia
+
+A pesquisa qualitativa que propomos será o desenvolvimento de um aplicativo Android para clientes da empresa Dica de Lingerie, situada na cidade de Itaperuna-RJ. A empresa Dica de Lingerie foi escolhida para estudo por possuir mais de 75 mil clientes mulheres em fase de gestação.
+ 
+O trabalho de carácter descritivo tem por objetivo auxiliar com o uso da tecnologia um grupo de mulheres gestantes, durante toda a fase gestacional propocionando uma nova visão do problema. GILL (2007) define que o objetivo primordial de pesquisas descritivas é a descrição das características de um determinado grupo e a relação entre as variáveis. 
+
+O resultado do estudo feito por NASCIMENTO (2009), mostra que a tecnologia afetou positivamente na auto confiança no parto, relação mãe-bebê. Além de auxiliar às mulheres a transpor o emponderamento durante a gravidez e no parto, para o seu dia a dia. 
+
+Os principais autores que contribuíram com o trabalho foram NASCIMENTO(2009) e SIVA e SILVA (2009).
+
 
 
 ### Resultados e discussões

@@ -25,16 +25,33 @@ A ideia de criar esse aplicativo para comunicação, entretenimento e conteúdo 
 ### Introdução
 
 O período de gestação na vida da mulher é cercado de mudanças e emoções. Segundo Silva e Silva (2009), gerar um filho tem destaque no ciclo vital da mulher que passa por intensas mudanças no corpo e em seu psicológico. A valorização da mulher como ser humano e cidadã é algo destacável (FREITAS et al., 2009). 
-
-Embora, existam diferentes formas de adquirir informações acerca da gravidez, segundo (Nascimento, 2009) transformações durante a gestação e diferentes vivências no parto gera preocupação em algumas mulheres. Essas reações estão ligadas ao medo das "dores" no próprio trabalho de parto, a vida dela e do seu bebê e o trauma de uma experiência mau sucedida (MELO; LIMA, 2000). Melo e Lima (2000) falam que a gravidez é  vista como um processo profundo de alterações fisicas, psíquicas e sociais. 
-
+Embora, existem diferentes formas de adquirir informações acerca da gravidez, segundo (Nascimento, 2009) transformações durante a gestação e diferentes vivências no parto gera preocupação em algumas mulheres. Essas reações estão ligadas ao medo das "dores" no próprio trabalho de parto, a vida dela e do seu bebê e o trauma de uma experiência mal sucedida (MELO e LIMA, 2000). Melo e Lima (2000) falam que a gravidez é vista como um processo profundo de alterações físicas, psíquicas e sociais. 
 O uso da tecnologia pelas mulheres gestantes gera acolhimento, segurança e preparação, além da contribuição do emponderamento durante a gravidez. O ato de perceber suas principais necessidades faz com que elas se adaptem e se tornem mais confiantes (NASCIMENTO, 2009). Além do resgate do seu emponderamento para assumir uma postura ativa no parto (NASCIMENTO, 2009, p. 18).
+Assim, o desenvolvimento de um aplicativo que visa disponibilizar conteúdos e formas de diálogos com sala de bate-papo entre as futuras e atuais mães, favorece a criação de um ambiente interativo e informativo, representado na Figura 01.
+ 
+Figura 01 – Representação das funcionalidades do aplicativo
+Fonte: Elaborado pelo autor
 
-Assim, o desenvolvimento de um aplicativo que visa disponibilizar conteúdos e formas de diálogos com sala de bate-papo entre as futuras e atuais mães, favorece a criação de um ambiente interativo e informativo. Além disso, a confiança em tornar esse momento da gravidez um cenário confiante e saudável, garantindo que mães possam se relacionar através da troca de experiências e adquirindo mais informações.
+Além disso, a confiança em tornar esse momento da gravidez um cenário confiante e saudável, garantindo que mães possam se relacionar através da troca de experiências e adquirindo mais informações. 
 
 
 
 ### Metodologia
+
+A pesquisa qualitativa que propomos será o desenvolvimento de um aplicativo na plataforma Android para clientes da empresa Dica de Lingerie, situada na cidade de Itaperuna-RJ. A empresa Dica de Lingerie foi escolhida para estudo por possuir mais de 75 mil clientes mulheres em fase de gestação. A empresa é uma loja virtual fundada em 2002 e é especialista na produção de roupas íntimas exclusivas com foco no público gestante. Além do conforto com roupas íntimas a empresa também disponibiliza na plataforma um conjunto de artigos sobre gravidez, parto e pós parto, apresentado na Figura 02.
+ 
+Figura 02 – Artigos do blog disponíveis pela empresa
+Fonte: Elaborado pelo autor
+
+O trabalho de carácter descritivo tem por objetivo auxiliar um grupo de mulheres gestantes através uso do aplicativo na plataforma Android, durante toda a fase gestacional proporcionando uma nova visão do problema. GILL (2007) define que o objetivo primordial de pesquisas descritivas é a descrição das características de um determinado grupo e a relação entre as variáveis. 
+O resultado do estudo feito por NASCIMENTO (2009), mostra que a tecnologia afetou positivamente na auto confiança no parto e relação mãe-bebê, além de auxiliar às mulheres a transpor o emponderamento durante a gravidez e no parto, para o seu dia a dia.
+O referencial teórico utilizado na construção do estudo foi o trabalho de NASCIMENTO (2009) e SIVA e SILVA (2009). NASCIMENTO (2009) apresentou como resultado de seu estudo os fatores positivos que a utilização de tecnologias não invasivas trouxeram para o emponderamento feminino durante a gravidez, contribuindo para o desenvolvimento desse projeto. 
+
+## 2.1.	Android Studio
+O Android Studio é o ambiente de desenvolvimento integrado (IDE) oficial para o desenvolvimento de aplicativos Android. A ferramenta foi criada pela empresa Jetbrains e é baseada no IntelliJ IDEA. O Android Studio disponibiliza muitos recursos para aumentar sua produtividade na criação de aplicativos Android, como um ambiente unificado para o desenvolvimento de todos os dispositivos Android, ferramentas e estruturas de testes, além de modelos de códigos e a integração com GitHub para auxiliar na criação de recursos comuns dos aplicativos e importar exemplos de código. 
+Segundo LECHETA (2009), o uso dessa plataforma moderna e flexível possibilita o desenvolvimento de aplicativos modernos e personalizados, além da facilidade e personalização das aplicações e componentes.
+Conforme novas tecnologias forem surgindo, o código pode ser alterado. A vantagem de possuir o código aberto é que poderá estar em constante evolução e as comunidades de desenvolvimento trabalharem em conjunto para fortalecer aplicações móveis inovadoras (PEREIRA; DA SILVA, 2009).
+
 
 
 ### Resultados e discussões
@@ -47,15 +64,23 @@ O artigo defendido por Nascimento(2011) analisa o comportamento de mulheres que 
 
 ### Referências
 
-SILVA, Laura Johanson da; SILVA, Leila Rangel da. Mudanças na vida e no corpo: vivências diante da gravidez na perspectiva afetiva dos pais. Esc. Anna Nery,  Rio de Janeiro ,  v. 13, n. 2, p. 393-401,  June  2009 .   Available from <http://www.scielo.br/scielo.php?script=sci_arttext&pid=S1414-81452009000200022&lng=en&nrm=iso>. access on  26  de setembro  2018.  http://dx.doi.org/10.1590/S1414-81452009000200022.
-
-MELO, Luciana de Lione; LIMA, Maria Alice Dias da Silva. Mulheres no segundo e terceiro trimestres de gravidez: suas alterações psicológicas. Rev. bras. enferm.,  Brasília ,  v. 53, n. 1, p. 81-86,  Mar.  2000 .   Available from <http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0034-71672000000100010&lng=en&nrm=iso>. access on  26  de setembro  2018.  http://dx.doi.org/10.1590/S0034-71672000000100010.
+ANDROIDDEVELOPERS, Conheça o Android Studio. Disponível em: <https://developer.android.com/studio/intro/?hl=pt-br>. Acesso em: 20 de novembro de 2018.
 
 FREITAS, G.L. et al. Discutindo a política à saúde da mulher no contexto da promoção da saúde. Tev. Eletr. Enferm., Goiânia, v.11, n.2, p.424-428, 2009).
 
-NASCIMENTO, Natália Magalhães do et al . Tecnologias não invasivas de cuidado no parto realizadas por enfermeiras: a percepção de mulheres. Esc. Anna Nery,  Rio de Janeiro ,  v. 14, n. 3, p. 456-461,  Sept.  2010 .   Available from <http://www.scielo.br/scielo.php?script=sci_arttext&pid=S1414-81452010000300004&lng=en&nrm=iso>. access on  10 de agosto  2018.  http://dx.doi.org/10.1590/S1414-81452010000300004.
+GIL, Antonio Carlos. Como elaborar projetos de pesquisa. 4. ed. São Paulo: Atlas, 2007.
 
+JEANVARGAS, Conheça o Android Studio, a ferramenta oficial de Apps para Android. Disponível em: < https://jeanvargas.com.br/conheca-o-android-studio-ferramenta-oficial-para-o-desenvolvimento-de-apps-para-android/>. Acesso em: 20 de novembro de 2018. 
 
+LECHETA, Ricardo R. Google Android – Aprenda A Criar Aplicações: Para Dispositivos Móveis Com O Android SDK. Novatec Editora, 2009.
+
+MELO, Luciana de Lione; LIMA, Maria Alice Dias da Silva. Mulheres no segundo e terceiro trimestres de gravidez: suas alterações psicológicas. Rev. bras. enferm.,  Brasília ,  v. 53, n. 1, p. 81-86,  Mar.  2000 .   Disponível em: <http://dx.doi.org/10.1590/S0034-1672000000100010>. Acesso em  26  de setembro  2018.
+
+NASCIMENTO, Natália Magalhães do et al . Tecnologias não invasivas de cuidado no parto realizadas por enfermeiras: a percepção de mulheres. Esc. Anna Nery,  Rio de Janeiro ,  v. 14, n. 3, p. 456-461,  Sept.  2010. Disponível em: <http://dx.doi.org/10.1590/S1414-81452010000300004>. Acesso em  10 de agosto  2018.
+
+PEREIRA, Lucio Camilo Oliva; DA SILVA, Michel Lourenço. Android para desenvolvedores. Brasport, 2009.
+
+SILVA, Laura Johanson da; SILVA, Leila Rangel da. Mudanças na vida e no corpo: vivências diante da gravidez na perspectiva afetiva dos pais. Esc. Anna Nery,  Rio de Janeiro ,  v. 13, n. 2, p. 393-401,  Junho  2009.  Disponível em: <http://dx.doi.org/10.1590/S1414-81452009000200022>. Acesso em  26  de setembro  2018.
 
 
 
